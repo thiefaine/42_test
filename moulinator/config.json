@@ -1,0 +1,15 @@
+{
+    "libft": {
+        "rendu_path": "~/Lib",
+        "extra_tests": [
+            "ft_strrev", "ft_islower",
+            "ft_isupper"
+        ]
+    },
+    "get_next_line": {
+        "rendu_path": "~/path/to/your/project/folder"
+    },
+    "ft_ls": {
+        "rendu_path": "~/path/to/your/project/folder"
+    }
+}
