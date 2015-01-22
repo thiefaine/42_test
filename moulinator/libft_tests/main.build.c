@@ -1,4 +1,9 @@
+#define TEST_ft_strrev
+#define TEST_ft_islower
+#define TEST_ft_isupper
 #define PART1
+#define PART2
+#define BONUS
 #include <testframework.h>
 #include "libft.h"
 #include <string.h>

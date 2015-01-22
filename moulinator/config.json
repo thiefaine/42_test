@@ -1,13 +1,13 @@
 {
     "libft": {
-        "rendu_path": "~/Lib",
+        "rendu_path": "~/libft",
         "extra_tests": [
             "ft_strrev", "ft_islower",
             "ft_isupper"
         ]
     },
     "get_next_line": {
-        "rendu_path": "~/path/to/your/project/folder"
+        "rendu_path": "~/GNL_WOLF/"
     },
     "ft_ls": {
         "rendu_path": "~/path/to/your/project/folder"
